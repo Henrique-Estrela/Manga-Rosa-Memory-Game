@@ -10,6 +10,7 @@ val cores = listOf(
     "\u001B[33m", // Amarelo
     "\u001B[30m"  // Preto
 )
+
 val reset = "\u001B[0m"
 
 // Matheus
